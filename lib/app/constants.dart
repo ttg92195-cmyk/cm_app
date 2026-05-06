@@ -9,7 +9,7 @@ api/trending/movies
 api/trending/tv-shows
  */
 // main host
-const String hostUrl = 'https://www.homietv.com';
+const String hostUrl = 'https://ysmovies.yoteshinportal.cc';
 //host
 const String api1HostName = 'homietv';
 const String api2HostName = 'ysflix';
